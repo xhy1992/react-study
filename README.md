@@ -45,4 +45,4 @@
 ## 其他应用
 - [gallery-by-react](https://github.com/ckinmind/gallery-by-react): 一个React实现的图片画廊
 - [hackernews-react](https://github.com/ckinmind/hackernews-react): 一个React实现的HackerNews
-- [react-cnode](https://github.com/ckinmind/react-cnode): 一个React构建的cnode社区
+- [react-cnode](https://github.com/ckinmind/react-cnode): 一个React构建的cnode社区# react-study
